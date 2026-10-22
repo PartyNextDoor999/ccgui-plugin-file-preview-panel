@@ -1,0 +1,14 @@
+{
+  "id": "file-preview-panel",
+  "name": "文件预览面板",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "sdkVersion": "^0.3",
+  "tier": "js",
+  "author": "PartyNextDoor999",
+  "repo": "PartyNextDoor999/ccgui-plugin-file-preview-panel",
+  "license": "MIT",
+  "description": "在右侧面板浏览工作区文件树，直接预览 Markdown（含 Mermaid 图表）与文本文件，不另开主标签页。仅支持 Windows。",
+  "keywords": ["file", "preview", "markdown", "mermaid", "文件", "预览"],
+  "permissions": ["ui:panel-tab", "ui:overlay", "storage", "i18n", "assets:bundle", "exec:git", "exec:powershell"]
+}
